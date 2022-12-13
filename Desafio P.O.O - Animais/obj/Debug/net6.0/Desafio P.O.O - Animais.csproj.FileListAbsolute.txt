@@ -1,0 +1,15 @@
+C:\Git\Desafio P.O.O - Animais\bin\Debug\net6.0\Desafio P.O.O - Animais.exe
+C:\Git\Desafio P.O.O - Animais\bin\Debug\net6.0\Desafio P.O.O - Animais.deps.json
+C:\Git\Desafio P.O.O - Animais\bin\Debug\net6.0\Desafio P.O.O - Animais.runtimeconfig.json
+C:\Git\Desafio P.O.O - Animais\bin\Debug\net6.0\Desafio P.O.O - Animais.dll
+C:\Git\Desafio P.O.O - Animais\bin\Debug\net6.0\Desafio P.O.O - Animais.pdb
+C:\Git\Desafio P.O.O - Animais\obj\Debug\net6.0\Desafio P.O.O - Animais.csproj.AssemblyReference.cache
+C:\Git\Desafio P.O.O - Animais\obj\Debug\net6.0\Desafio P.O.O - Animais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Desafio P.O.O - Animais\obj\Debug\net6.0\Desafio P.O.O - Animais.AssemblyInfoInputs.cache
+C:\Git\Desafio P.O.O - Animais\obj\Debug\net6.0\Desafio P.O.O - Animais.AssemblyInfo.cs
+C:\Git\Desafio P.O.O - Animais\obj\Debug\net6.0\Desafio P.O.O - Animais.csproj.CoreCompileInputs.cache
+C:\Git\Desafio P.O.O - Animais\obj\Debug\net6.0\Desafio P.O.O - Animais.dll
+C:\Git\Desafio P.O.O - Animais\obj\Debug\net6.0\refint\Desafio P.O.O - Animais.dll
+C:\Git\Desafio P.O.O - Animais\obj\Debug\net6.0\Desafio P.O.O - Animais.pdb
+C:\Git\Desafio P.O.O - Animais\obj\Debug\net6.0\Desafio P.O.O - Animais.genruntimeconfig.cache
+C:\Git\Desafio P.O.O - Animais\obj\Debug\net6.0\ref\Desafio P.O.O - Animais.dll

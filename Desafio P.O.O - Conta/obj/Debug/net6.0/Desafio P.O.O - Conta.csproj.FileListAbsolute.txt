@@ -1,0 +1,30 @@
+C:\Git\Desafio P.O.O - Conta\bin\Debug\net6.0\Desafio P.O.O - Conta.exe
+C:\Git\Desafio P.O.O - Conta\bin\Debug\net6.0\Desafio P.O.O - Conta.deps.json
+C:\Git\Desafio P.O.O - Conta\bin\Debug\net6.0\Desafio P.O.O - Conta.runtimeconfig.json
+C:\Git\Desafio P.O.O - Conta\bin\Debug\net6.0\Desafio P.O.O - Conta.dll
+C:\Git\Desafio P.O.O - Conta\bin\Debug\net6.0\Desafio P.O.O - Conta.pdb
+C:\Git\Desafio P.O.O - Conta\obj\Debug\net6.0\Desafio P.O.O - Conta.csproj.AssemblyReference.cache
+C:\Git\Desafio P.O.O - Conta\obj\Debug\net6.0\Desafio P.O.O - Conta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Desafio P.O.O - Conta\obj\Debug\net6.0\Desafio P.O.O - Conta.AssemblyInfoInputs.cache
+C:\Git\Desafio P.O.O - Conta\obj\Debug\net6.0\Desafio P.O.O - Conta.AssemblyInfo.cs
+C:\Git\Desafio P.O.O - Conta\obj\Debug\net6.0\Desafio P.O.O - Conta.csproj.CoreCompileInputs.cache
+C:\Git\Desafio P.O.O - Conta\obj\Debug\net6.0\Desafio P.O.O - Conta.dll
+C:\Git\Desafio P.O.O - Conta\obj\Debug\net6.0\refint\Desafio P.O.O - Conta.dll
+C:\Git\Desafio P.O.O - Conta\obj\Debug\net6.0\Desafio P.O.O - Conta.pdb
+C:\Git\Desafio P.O.O - Conta\obj\Debug\net6.0\Desafio P.O.O - Conta.genruntimeconfig.cache
+C:\Git\Desafio P.O.O - Conta\obj\Debug\net6.0\ref\Desafio P.O.O - Conta.dll
+C:\Git\Desafio P.O.O\Desafio P.O.O - Conta\bin\Debug\net6.0\Desafio P.O.O - Conta.exe
+C:\Git\Desafio P.O.O\Desafio P.O.O - Conta\bin\Debug\net6.0\Desafio P.O.O - Conta.deps.json
+C:\Git\Desafio P.O.O\Desafio P.O.O - Conta\bin\Debug\net6.0\Desafio P.O.O - Conta.runtimeconfig.json
+C:\Git\Desafio P.O.O\Desafio P.O.O - Conta\bin\Debug\net6.0\Desafio P.O.O - Conta.dll
+C:\Git\Desafio P.O.O\Desafio P.O.O - Conta\bin\Debug\net6.0\Desafio P.O.O - Conta.pdb
+C:\Git\Desafio P.O.O\Desafio P.O.O - Conta\obj\Debug\net6.0\Desafio P.O.O - Conta.csproj.AssemblyReference.cache
+C:\Git\Desafio P.O.O\Desafio P.O.O - Conta\obj\Debug\net6.0\Desafio P.O.O - Conta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Desafio P.O.O\Desafio P.O.O - Conta\obj\Debug\net6.0\Desafio P.O.O - Conta.AssemblyInfoInputs.cache
+C:\Git\Desafio P.O.O\Desafio P.O.O - Conta\obj\Debug\net6.0\Desafio P.O.O - Conta.AssemblyInfo.cs
+C:\Git\Desafio P.O.O\Desafio P.O.O - Conta\obj\Debug\net6.0\Desafio P.O.O - Conta.csproj.CoreCompileInputs.cache
+C:\Git\Desafio P.O.O\Desafio P.O.O - Conta\obj\Debug\net6.0\Desafio P.O.O - Conta.dll
+C:\Git\Desafio P.O.O\Desafio P.O.O - Conta\obj\Debug\net6.0\refint\Desafio P.O.O - Conta.dll
+C:\Git\Desafio P.O.O\Desafio P.O.O - Conta\obj\Debug\net6.0\Desafio P.O.O - Conta.pdb
+C:\Git\Desafio P.O.O\Desafio P.O.O - Conta\obj\Debug\net6.0\Desafio P.O.O - Conta.genruntimeconfig.cache
+C:\Git\Desafio P.O.O\Desafio P.O.O - Conta\obj\Debug\net6.0\ref\Desafio P.O.O - Conta.dll

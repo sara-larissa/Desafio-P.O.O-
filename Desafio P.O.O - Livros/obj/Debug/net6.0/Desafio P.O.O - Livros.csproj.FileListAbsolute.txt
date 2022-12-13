@@ -1,0 +1,15 @@
+C:\Git\Desafio P.O.O - Livros\bin\Debug\net6.0\Desafio P.O.O - Livros.exe
+C:\Git\Desafio P.O.O - Livros\bin\Debug\net6.0\Desafio P.O.O - Livros.deps.json
+C:\Git\Desafio P.O.O - Livros\bin\Debug\net6.0\Desafio P.O.O - Livros.runtimeconfig.json
+C:\Git\Desafio P.O.O - Livros\bin\Debug\net6.0\Desafio P.O.O - Livros.dll
+C:\Git\Desafio P.O.O - Livros\bin\Debug\net6.0\Desafio P.O.O - Livros.pdb
+C:\Git\Desafio P.O.O - Livros\obj\Debug\net6.0\Desafio P.O.O - Livros.csproj.AssemblyReference.cache
+C:\Git\Desafio P.O.O - Livros\obj\Debug\net6.0\Desafio P.O.O - Livros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Desafio P.O.O - Livros\obj\Debug\net6.0\Desafio P.O.O - Livros.AssemblyInfoInputs.cache
+C:\Git\Desafio P.O.O - Livros\obj\Debug\net6.0\Desafio P.O.O - Livros.AssemblyInfo.cs
+C:\Git\Desafio P.O.O - Livros\obj\Debug\net6.0\Desafio P.O.O - Livros.csproj.CoreCompileInputs.cache
+C:\Git\Desafio P.O.O - Livros\obj\Debug\net6.0\Desafio P.O.O - Livros.dll
+C:\Git\Desafio P.O.O - Livros\obj\Debug\net6.0\refint\Desafio P.O.O - Livros.dll
+C:\Git\Desafio P.O.O - Livros\obj\Debug\net6.0\Desafio P.O.O - Livros.pdb
+C:\Git\Desafio P.O.O - Livros\obj\Debug\net6.0\Desafio P.O.O - Livros.genruntimeconfig.cache
+C:\Git\Desafio P.O.O - Livros\obj\Debug\net6.0\ref\Desafio P.O.O - Livros.dll
